@@ -1,5 +1,0 @@
-com\jungle\spark\kafka\KafkaConsumer.class
-com\jungle\spark\kafka\KafkaProducer.class
-com\jungle\spark\project\utils\HBaseUtils.class
-com\jungle\spark\kafka\KafkaClientApp.class
-com\jungle\spark\kafka\KafkaProperties.class
